@@ -672,6 +672,13 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
+        "type": "mdx",
+        "permalink": "/first-page",
+        "source": "@site/src/pages/first-page.md",
+        "description": "Hello markdown page",
+        "frontMatter": {}
+      },
+      {
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"

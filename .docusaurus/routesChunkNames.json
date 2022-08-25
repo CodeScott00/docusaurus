@@ -179,6 +179,13 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
+  "/first-page-278": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-32-e-7ac"
+    },
+    "content": "content---first-page-480-263"
+  },
   "/markdown-page-b66": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {

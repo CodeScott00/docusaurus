@@ -93,6 +93,11 @@ export default [
     exact: true
   },
   {
+    path: '/first-page',
+    component: ComponentCreator('/first-page', '278'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', 'b66'),
     exact: true

@@ -1,0 +1,7 @@
+{
+  "type": "mdx",
+  "permalink": "/first_page",
+  "source": "@site/src/pages/first_page.md",
+  "description": "Hello markdown page",
+  "frontMatter": {}
+}
