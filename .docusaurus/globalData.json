@@ -11,8 +11,8 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "hello",
-              "path": "/docs/hello",
+              "id": "folder-test/hello",
+              "path": "/docs/folder-test/hello",
               "sidebar": "tutorialSidebar"
             },
             {

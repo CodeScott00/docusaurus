@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My own brain database for code.",
+  "title": "My own database for code.",
   "tagline": "Dinosaurs are cool",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
