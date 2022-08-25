@@ -1,17 +1,13 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator and its aim is to provide the user(me) with my own coding knowledge in my own website that I can refer back to at any point. 
 
 ### Local Development
 
 ```
-$ yarn start
+$ cd docasaurus
+$ npm run start
+
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,7 +15,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.

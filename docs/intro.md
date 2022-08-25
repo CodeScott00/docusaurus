@@ -1,12 +1,12 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Tutorial Introduction
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Starteded
+## Getting Started
 
 Get started by **creating a new site**.
 
