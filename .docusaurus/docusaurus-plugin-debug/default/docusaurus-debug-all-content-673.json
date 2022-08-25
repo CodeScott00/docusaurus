@@ -675,6 +675,7 @@
         "type": "mdx",
         "permalink": "/first-page",
         "source": "@site/src/pages/first-page.md",
+        "title": "My markdown page",
         "description": "Hello markdown page",
         "frontMatter": {}
       },
