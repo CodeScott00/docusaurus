@@ -60,6 +60,12 @@
         "href": "/docs/category/tutorial---basics"
       },
       {
+        "type": "link",
+        "label": "Hi!",
+        "href": "/docs/hello",
+        "docId": "hello"
+      },
+      {
         "type": "category",
         "label": "Tutorial - Extras",
         "collapsible": true,
@@ -79,12 +85,6 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
-      },
-      {
-        "type": "link",
-        "label": "Hello Doc",
-        "href": "/docs/hello",
-        "docId": "hello"
       }
     ]
   },

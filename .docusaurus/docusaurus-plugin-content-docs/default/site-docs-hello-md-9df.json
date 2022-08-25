@@ -11,10 +11,18 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hello.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Hi!",
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Translate your site",
-    "permalink": "/docs/tutorial-extras/translate-your-site"
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
   }
 }
