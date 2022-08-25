@@ -93,8 +93,8 @@ export default [
     exact: true
   },
   {
-    path: '/first-page',
-    component: ComponentCreator('/first-page', '278'),
+    path: '/first-markdown-page',
+    component: ComponentCreator('/first-markdown-page', 'e23'),
     exact: true
   },
   {
@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '870'),
+    component: ComponentCreator('/docs', '021'),
     routes: [
       {
         path: '/docs/category/tutorial---basics',
@@ -115,6 +115,12 @@ export default [
       {
         path: '/docs/category/tutorial---extras',
         component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/hello',
+        component: ComponentCreator('/docs/hello', '7a8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

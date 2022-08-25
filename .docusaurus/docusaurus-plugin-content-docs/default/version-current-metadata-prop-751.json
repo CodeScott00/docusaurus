@@ -79,10 +79,22 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "Hello Doc",
+        "href": "/docs/hello",
+        "docId": "hello"
       }
     ]
   },
   "docs": {
+    "hello": {
+      "id": "hello",
+      "title": "Hello Doc",
+      "description": "first document",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Introduction",
