@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscott_db=self.webpackChunkscott_db||[]).push([[7178],{5010:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
