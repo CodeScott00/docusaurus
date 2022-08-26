@@ -1,0 +1,28 @@
+{
+  "unversionedId": "test folder/hello",
+  "id": "test folder/hello",
+  "title": "Hello Doc",
+  "description": "first document",
+  "source": "@site/docs/test folder/hello.md",
+  "sourceDirName": "test folder",
+  "slug": "/test folder/hello",
+  "permalink": "/docs/test folder/hello",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/test folder/hello.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Hi!",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/Tutorial/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "test",
+    "permalink": "/docs/test folder/test"
+  }
+}

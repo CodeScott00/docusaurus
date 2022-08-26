@@ -40,10 +40,47 @@ When a new piece of data is introduced into a JavaScript program, the program ke
 ## Booleans
 Booleans are a primitive data type. They can be either `true` or `false`.
 
-## Math.random()
+## Math.random();
 the `Math.random()` function returns a floating-point, random number in the range from 0(inclusive) up to but not including 1.
 ```
 console.log(Math.random());
 // prints: 0 - 0.9
 ```
+
+## Math.floor();
+The `Math.floor()` function returns the largest integer less than or  equal to the given number 
+
+```
+console,.log(Math.floor(5.95));
+// Prints: 5
+```
+
+## Single line comments 
+created with foward slashes. 
+```
+// this line is a comment
+```
+
+## Null
+Null is a primitive data type. in represents the intentional absense of a value. in code, it is represented as `null`
+
+```
+let x = null;
+```
+
+## Strings
+Strings are a primitive data type. they are a grouping od characters(lletters, spaces, numbers or symbols) surrounded by 'single' or "double" quotes.
+
+## Arthithmetic Operators
+JavaScript supports arthimetic operators for:
+```
+*** + Addition - 5 + 5 = 10
+*** - Subtraction - 10 - 5 = 5
+*** * Multiplication - 5 * 10 = 50
+*** / Division - 10 / 5 = 2
+*** % Modulo / Remainder - 10 % 5 = 0.5
+```
+
+
+
 

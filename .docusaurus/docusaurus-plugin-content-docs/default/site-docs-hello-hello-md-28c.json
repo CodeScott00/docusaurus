@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Hello/hello",
+  "id": "Hello/hello",
+  "title": "Hello Doc",
+  "description": "first document",
+  "source": "@site/docs/Hello/hello.md",
+  "sourceDirName": "Hello",
+  "slug": "/Hello/",
+  "permalink": "/docs/Hello/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Hello/hello.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Hi!",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

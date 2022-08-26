@@ -11,53 +11,98 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "folder-test/hello",
-              "path": "/docs/folder-test/hello",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "JavaScript/Arrays",
+              "path": "/docs/JavaScript/Arrays",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "JavaScript/Conditionals",
+              "path": "/docs/JavaScript/Conditionals",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "JavaScript/Functions",
+              "path": "/docs/JavaScript/Functions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "JavaScript/Introduction",
+              "path": "/docs/JavaScript/Introduction",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "JavaScript/Iterators",
+              "path": "/docs/JavaScript/Iterators",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "JavaScript/Loops",
+              "path": "/docs/JavaScript/Loops",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "JavaScript/Objects",
+              "path": "/docs/JavaScript/Objects",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "JavaScript/Scope",
+              "path": "/docs/JavaScript/Scope",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test folder/hello",
+              "path": "/docs/test folder/hello",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test folder/test",
+              "path": "/docs/test folder/test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/congratulations",
+              "path": "/docs/Tutorial/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/create-a-blog-post",
+              "path": "/docs/Tutorial/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/create-a-document",
+              "path": "/docs/Tutorial/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/create-a-page",
+              "path": "/docs/Tutorial/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/deploy-your-site",
+              "path": "/docs/Tutorial/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/markdown-features",
+              "path": "/docs/Tutorial/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-extras/manage-docs-versions",
+              "path": "/docs/Tutorial/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-extras/translate-your-site",
+              "path": "/docs/Tutorial/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {

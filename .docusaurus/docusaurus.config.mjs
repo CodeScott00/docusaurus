@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Home",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -51,11 +51,11 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Database"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "TBA",
           "position": "left"
         },
         {
@@ -73,7 +73,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Database",
               "to": "/docs/intro"
             }
           ]

@@ -19,30 +19,6 @@
           "contentPathLocalized": "/Users/Skygod/Coding/Docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "folder-test/hello",
-              "id": "folder-test/hello",
-              "title": "Hello Doc",
-              "description": "first document",
-              "source": "@site/docs/folder-test/hello.md",
-              "sourceDirName": "folder-test",
-              "slug": "/folder-test/hello",
-              "permalink": "/docs/folder-test/hello",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/folder-test/hello.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_label": "Hi!",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Tutorial Introduction",
@@ -61,48 +37,75 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Introduction",
+                "permalink": "/docs/JavaScript/Introduction"
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "unversionedId": "JavaScript/Arrays",
+              "id": "JavaScript/Arrays",
+              "title": "Arrays",
+              "description": "",
+              "source": "@site/docs/JavaScript/Arrays.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Arrays",
+              "permalink": "/docs/JavaScript/Arrays",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Arrays.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "title": "Scope",
+                "permalink": "/docs/JavaScript/Scope"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "Loops",
+                "permalink": "/docs/JavaScript/Loops"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "unversionedId": "JavaScript/Conditionals",
+              "id": "JavaScript/Conditionals",
+              "title": "Conditionals",
+              "description": "",
+              "source": "@site/docs/JavaScript/Conditionals.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Conditionals",
+              "permalink": "/docs/JavaScript/Conditionals",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Conditionals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/JavaScript/Introduction"
+              },
+              "next": {
+                "title": "Functions",
+                "permalink": "/docs/JavaScript/Functions"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/Functions",
+              "id": "JavaScript/Functions",
+              "title": "Functions",
+              "description": "",
+              "source": "@site/docs/JavaScript/Functions.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Functions",
+              "permalink": "/docs/JavaScript/Functions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Functions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -111,25 +114,208 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "Conditionals",
+                "permalink": "/docs/JavaScript/Conditionals"
               },
               "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "title": "Scope",
+                "permalink": "/docs/JavaScript/Scope"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "unversionedId": "JavaScript/Introduction",
+              "id": "JavaScript/Introduction",
+              "title": "Introduction",
+              "description": "JavaScript",
+              "source": "@site/docs/JavaScript/Introduction.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Introduction",
+              "permalink": "/docs/JavaScript/Introduction",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Conditionals",
+                "permalink": "/docs/JavaScript/Conditionals"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/Iterators",
+              "id": "JavaScript/Iterators",
+              "title": "Iterators",
+              "description": "",
+              "source": "@site/docs/JavaScript/Iterators.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Iterators",
+              "permalink": "/docs/JavaScript/Iterators",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Iterators.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Loops",
+                "permalink": "/docs/JavaScript/Loops"
+              },
+              "next": {
+                "title": "Objects",
+                "permalink": "/docs/JavaScript/Objects"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/Loops",
+              "id": "JavaScript/Loops",
+              "title": "Loops",
+              "description": "",
+              "source": "@site/docs/JavaScript/Loops.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Loops",
+              "permalink": "/docs/JavaScript/Loops",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Loops.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Arrays",
+                "permalink": "/docs/JavaScript/Arrays"
+              },
+              "next": {
+                "title": "Iterators",
+                "permalink": "/docs/JavaScript/Iterators"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/Objects",
+              "id": "JavaScript/Objects",
+              "title": "Objects",
+              "description": "",
+              "source": "@site/docs/JavaScript/Objects.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Objects",
+              "permalink": "/docs/JavaScript/Objects",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Objects.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Iterators",
+                "permalink": "/docs/JavaScript/Iterators"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "JavaScript/Scope",
+              "id": "JavaScript/Scope",
+              "title": "Scope",
+              "description": "",
+              "source": "@site/docs/JavaScript/Scope.md",
+              "sourceDirName": "JavaScript",
+              "slug": "/JavaScript/Scope",
+              "permalink": "/docs/JavaScript/Scope",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Scope.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Functions",
+                "permalink": "/docs/JavaScript/Functions"
+              },
+              "next": {
+                "title": "Arrays",
+                "permalink": "/docs/JavaScript/Arrays"
+              }
+            },
+            {
+              "unversionedId": "test folder/hello",
+              "id": "test folder/hello",
+              "title": "Hello Doc",
+              "description": "first document",
+              "source": "@site/docs/test folder/hello.md",
+              "sourceDirName": "test folder",
+              "slug": "/test folder/hello",
+              "permalink": "/docs/test folder/hello",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/test folder/hello.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Hi!",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/docs/Tutorial/tutorial-extras/translate-your-site"
+              },
+              "next": {
+                "title": "test",
+                "permalink": "/docs/test folder/test"
+              }
+            },
+            {
+              "unversionedId": "test folder/test",
+              "id": "test folder/test",
+              "title": "test",
+              "description": "",
+              "source": "@site/docs/test folder/test.md",
+              "sourceDirName": "test folder",
+              "slug": "/test folder/test",
+              "permalink": "/docs/test folder/test",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/test folder/test.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hi!",
+                "permalink": "/docs/test folder/hello"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-basics/congratulations",
+              "id": "Tutorial/tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/Tutorial/tutorial-basics/congratulations.md",
+              "sourceDirName": "Tutorial/tutorial-basics",
+              "slug": "/Tutorial/tutorial-basics/congratulations",
+              "permalink": "/docs/Tutorial/tutorial-basics/congratulations",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -139,24 +325,78 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "permalink": "/docs/Tutorial/tutorial-basics/create-a-page"
               },
               "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "title": "Create a Document",
+                "permalink": "/docs/Tutorial/tutorial-basics/create-a-document"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
+              "unversionedId": "Tutorial/tutorial-basics/create-a-blog-post",
+              "id": "Tutorial/tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/Tutorial/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "Tutorial/tutorial-basics",
+              "slug": "/Tutorial/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/Tutorial/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-basics/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/Tutorial/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/Tutorial/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-basics/create-a-document",
+              "id": "Tutorial/tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/Tutorial/tutorial-basics/create-a-document.md",
+              "sourceDirName": "Tutorial/tutorial-basics",
+              "slug": "/Tutorial/tutorial-basics/create-a-document",
+              "permalink": "/docs/Tutorial/tutorial-basics/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-basics/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/docs/Tutorial/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/Tutorial/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-basics/create-a-page",
+              "id": "Tutorial/tutorial-basics/create-a-page",
               "title": "Create a Page",
               "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "source": "@site/docs/Tutorial/tutorial-basics/create-a-page.md",
+              "sourceDirName": "Tutorial/tutorial-basics",
+              "slug": "/Tutorial/tutorial-basics/create-a-page",
+              "permalink": "/docs/Tutorial/tutorial-basics/create-a-page",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -169,21 +409,21 @@
                 "permalink": "/docs/category/tutorial---basics"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "Congratulations!",
+                "permalink": "/docs/Tutorial/tutorial-basics/congratulations"
               }
             },
             {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
+              "unversionedId": "Tutorial/tutorial-basics/deploy-your-site",
+              "id": "Tutorial/tutorial-basics/deploy-your-site",
               "title": "Deploy your site",
               "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "source": "@site/docs/Tutorial/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "Tutorial/tutorial-basics",
+              "slug": "/Tutorial/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/Tutorial/tutorial-basics/deploy-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -193,24 +433,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/docs/Tutorial/tutorial-basics/markdown-features"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
               }
             },
             {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
+              "unversionedId": "Tutorial/tutorial-basics/markdown-features",
+              "id": "Tutorial/tutorial-basics/markdown-features",
               "title": "Markdown Features",
               "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "source": "@site/docs/Tutorial/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "Tutorial/tutorial-basics",
+              "slug": "/Tutorial/tutorial-basics/markdown-features",
+              "permalink": "/docs/Tutorial/tutorial-basics/markdown-features",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -220,24 +460,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/Tutorial/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/docs/Tutorial/tutorial-basics/deploy-your-site"
               }
             },
             {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
+              "unversionedId": "Tutorial/tutorial-extras/manage-docs-versions",
+              "id": "Tutorial/tutorial-extras/manage-docs-versions",
               "title": "Manage Docs Versions",
               "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "source": "@site/docs/Tutorial/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "Tutorial/tutorial-extras",
+              "slug": "/Tutorial/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/Tutorial/tutorial-extras/manage-docs-versions",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -251,20 +491,20 @@
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "permalink": "/docs/Tutorial/tutorial-extras/translate-your-site"
               }
             },
             {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
+              "unversionedId": "Tutorial/tutorial-extras/translate-your-site",
+              "id": "Tutorial/tutorial-extras/translate-your-site",
               "title": "Translate your site",
               "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "source": "@site/docs/Tutorial/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "Tutorial/tutorial-extras",
+              "slug": "/Tutorial/tutorial-extras/translate-your-site",
+              "permalink": "/docs/Tutorial/tutorial-extras/translate-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -274,11 +514,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/docs/Tutorial/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "Hi!",
-                "permalink": "/docs/folder-test/hello"
+                "permalink": "/docs/test folder/hello"
               }
             }
           ],
@@ -291,73 +531,125 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "JavaScript",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "JavaScript/Introduction"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "JavaScript/Conditionals"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "JavaScript/Functions"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
+                    "id": "JavaScript/Scope"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
+                    "id": "JavaScript/Arrays"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "JavaScript/Loops"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/Iterators"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "JavaScript/Objects"
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
-                }
+                ]
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Tutorial",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "type": "category",
+                    "label": "Tutorial - Basics",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-basics/create-a-page"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-basics/congratulations"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-basics/create-a-document"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-basics/create-a-blog-post"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-basics/markdown-features"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-basics/deploy-your-site"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "5 minutes to learn the most important Docusaurus concepts.",
+                      "slug": "/category/tutorial---basics",
+                      "permalink": "/docs/category/tutorial---basics"
+                    }
                   },
                   {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "type": "category",
+                    "label": "Tutorial - Extras",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-extras/manage-docs-versions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-extras/translate-your-site"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/tutorial---extras",
+                      "permalink": "/docs/category/tutorial---extras"
+                    }
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
-                }
+                ]
               },
               {
                 "type": "category",
-                "label": "folder-test",
+                "label": "test folder",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "folder-test/hello",
+                    "id": "test folder/hello",
                     "label": "Hi!"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "test folder/test"
                   }
                 ]
               }

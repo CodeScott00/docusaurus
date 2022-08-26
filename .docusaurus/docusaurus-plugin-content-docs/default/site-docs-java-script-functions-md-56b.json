@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/Functions",
+  "id": "JavaScript/Functions",
+  "title": "Functions",
+  "description": "",
+  "source": "@site/docs/JavaScript/Functions.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/Functions",
+  "permalink": "/docs/JavaScript/Functions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Functions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conditionals",
+    "permalink": "/docs/JavaScript/Conditionals"
+  },
+  "next": {
+    "title": "Scope",
+    "permalink": "/docs/JavaScript/Scope"
+  }
+}

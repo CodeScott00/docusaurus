@@ -16,143 +16,267 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "JavaScript",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "label": "Introduction",
+            "href": "/docs/JavaScript/Introduction",
+            "docId": "JavaScript/Introduction"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "label": "Conditionals",
+            "href": "/docs/JavaScript/Conditionals",
+            "docId": "JavaScript/Conditionals"
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
+            "label": "Functions",
+            "href": "/docs/JavaScript/Functions",
+            "docId": "JavaScript/Functions"
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
+            "label": "Scope",
+            "href": "/docs/JavaScript/Scope",
+            "docId": "JavaScript/Scope"
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
+            "label": "Arrays",
+            "href": "/docs/JavaScript/Arrays",
+            "docId": "JavaScript/Arrays"
           },
           {
             "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "label": "Loops",
+            "href": "/docs/JavaScript/Loops",
+            "docId": "JavaScript/Loops"
+          },
+          {
+            "type": "link",
+            "label": "Iterators",
+            "href": "/docs/JavaScript/Iterators",
+            "docId": "JavaScript/Iterators"
+          },
+          {
+            "type": "link",
+            "label": "Objects",
+            "href": "/docs/JavaScript/Objects",
+            "docId": "JavaScript/Objects"
           }
-        ],
-        "href": "/docs/category/tutorial---basics"
+        ]
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Tutorial",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "type": "category",
+            "label": "Tutorial - Basics",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create a Page",
+                "href": "/docs/Tutorial/tutorial-basics/create-a-page",
+                "docId": "Tutorial/tutorial-basics/create-a-page"
+              },
+              {
+                "type": "link",
+                "label": "Congratulations!",
+                "href": "/docs/Tutorial/tutorial-basics/congratulations",
+                "docId": "Tutorial/tutorial-basics/congratulations"
+              },
+              {
+                "type": "link",
+                "label": "Create a Document",
+                "href": "/docs/Tutorial/tutorial-basics/create-a-document",
+                "docId": "Tutorial/tutorial-basics/create-a-document"
+              },
+              {
+                "type": "link",
+                "label": "Create a Blog Post",
+                "href": "/docs/Tutorial/tutorial-basics/create-a-blog-post",
+                "docId": "Tutorial/tutorial-basics/create-a-blog-post"
+              },
+              {
+                "type": "link",
+                "label": "Markdown Features",
+                "href": "/docs/Tutorial/tutorial-basics/markdown-features",
+                "docId": "Tutorial/tutorial-basics/markdown-features"
+              },
+              {
+                "type": "link",
+                "label": "Deploy your site",
+                "href": "/docs/Tutorial/tutorial-basics/deploy-your-site",
+                "docId": "Tutorial/tutorial-basics/deploy-your-site"
+              }
+            ],
+            "href": "/docs/category/tutorial---basics"
           },
           {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "type": "category",
+            "label": "Tutorial - Extras",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Manage Docs Versions",
+                "href": "/docs/Tutorial/tutorial-extras/manage-docs-versions",
+                "docId": "Tutorial/tutorial-extras/manage-docs-versions"
+              },
+              {
+                "type": "link",
+                "label": "Translate your site",
+                "href": "/docs/Tutorial/tutorial-extras/translate-your-site",
+                "docId": "Tutorial/tutorial-extras/translate-your-site"
+              }
+            ],
+            "href": "/docs/category/tutorial---extras"
           }
-        ],
-        "href": "/docs/category/tutorial---extras"
+        ]
       },
       {
         "type": "category",
-        "label": "folder-test",
+        "label": "test folder",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Hi!",
-            "href": "/docs/folder-test/hello",
-            "docId": "folder-test/hello"
+            "href": "/docs/test folder/hello",
+            "docId": "test folder/hello"
+          },
+          {
+            "type": "link",
+            "label": "test",
+            "href": "/docs/test folder/test",
+            "docId": "test folder/test"
           }
         ]
       }
     ]
   },
   "docs": {
-    "folder-test/hello": {
-      "id": "folder-test/hello",
-      "title": "Hello Doc",
-      "description": "first document",
-      "sidebar": "tutorialSidebar"
-    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Introduction",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
+    "JavaScript/Arrays": {
+      "id": "JavaScript/Arrays",
+      "title": "Arrays",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Conditionals": {
+      "id": "JavaScript/Conditionals",
+      "title": "Conditionals",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Functions": {
+      "id": "JavaScript/Functions",
+      "title": "Functions",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Introduction": {
+      "id": "JavaScript/Introduction",
+      "title": "Introduction",
+      "description": "JavaScript",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Iterators": {
+      "id": "JavaScript/Iterators",
+      "title": "Iterators",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Loops": {
+      "id": "JavaScript/Loops",
+      "title": "Loops",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Objects": {
+      "id": "JavaScript/Objects",
+      "title": "Objects",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "JavaScript/Scope": {
+      "id": "JavaScript/Scope",
+      "title": "Scope",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "test folder/hello": {
+      "id": "test folder/hello",
+      "title": "Hello Doc",
+      "description": "first document",
+      "sidebar": "tutorialSidebar"
+    },
+    "test folder/test": {
+      "id": "test folder/test",
+      "title": "test",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Tutorial/tutorial-basics/congratulations": {
+      "id": "Tutorial/tutorial-basics/congratulations",
       "title": "Congratulations!",
       "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
+    "Tutorial/tutorial-basics/create-a-blog-post": {
+      "id": "Tutorial/tutorial-basics/create-a-blog-post",
       "title": "Create a Blog Post",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
+    "Tutorial/tutorial-basics/create-a-document": {
+      "id": "Tutorial/tutorial-basics/create-a-document",
       "title": "Create a Document",
       "description": "Documents are groups of pages connected through:",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
+    "Tutorial/tutorial-basics/create-a-page": {
+      "id": "Tutorial/tutorial-basics/create-a-page",
       "title": "Create a Page",
       "description": "Add Markdown or React files to src/pages to create a standalone page:",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
+    "Tutorial/tutorial-basics/deploy-your-site": {
+      "id": "Tutorial/tutorial-basics/deploy-your-site",
       "title": "Deploy your site",
       "description": "Docusaurus is a static-site-generator (also called Jamstack).",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
+    "Tutorial/tutorial-basics/markdown-features": {
+      "id": "Tutorial/tutorial-basics/markdown-features",
       "title": "Markdown Features",
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
+    "Tutorial/tutorial-extras/manage-docs-versions": {
+      "id": "Tutorial/tutorial-extras/manage-docs-versions",
       "title": "Manage Docs Versions",
       "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
+    "Tutorial/tutorial-extras/translate-your-site": {
+      "id": "Tutorial/tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"

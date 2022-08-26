@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/Objects",
+  "id": "JavaScript/Objects",
+  "title": "Objects",
+  "description": "",
+  "source": "@site/docs/JavaScript/Objects.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/Objects",
+  "permalink": "/docs/JavaScript/Objects",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Objects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Iterators",
+    "permalink": "/docs/JavaScript/Iterators"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

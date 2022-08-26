@@ -1,0 +1,27 @@
+{
+  "unversionedId": "JavaScript/Arrays",
+  "id": "JavaScript/Arrays",
+  "title": "Arrays",
+  "description": "",
+  "source": "@site/docs/JavaScript/Arrays.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/Arrays",
+  "permalink": "/docs/JavaScript/Arrays",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JavaScript/Arrays.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scope",
+    "permalink": "/docs/JavaScript/Scope"
+  },
+  "next": {
+    "title": "Loops",
+    "permalink": "/docs/JavaScript/Loops"
+  }
+}
