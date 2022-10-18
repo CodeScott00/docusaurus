@@ -182,7 +182,7 @@
     "JavaScript/Conditionals": {
       "id": "JavaScript/Conditionals",
       "title": "Conditionals",
-      "description": "",
+      "description": "Control flow",
       "sidebar": "tutorialSidebar"
     },
     "JavaScript/Functions": {

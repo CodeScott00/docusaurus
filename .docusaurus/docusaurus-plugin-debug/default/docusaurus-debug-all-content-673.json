@@ -72,7 +72,7 @@
               "unversionedId": "JavaScript/Conditionals",
               "id": "JavaScript/Conditionals",
               "title": "Conditionals",
-              "description": "",
+              "description": "Control flow",
               "source": "@site/docs/JavaScript/Conditionals.md",
               "sourceDirName": "JavaScript",
               "slug": "/JavaScript/Conditionals",
